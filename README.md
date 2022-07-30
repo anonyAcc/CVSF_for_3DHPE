@@ -8,20 +8,24 @@ Colored skeleton represents the estimated poses.
 
 #### Human3.6M
 
-<p align="center"><img src="experiments/h36m.gif" width="90%" alt="" /></p>
+<p align="center"><img src="experiments/h36m.gif" width="100%" alt="" /></p>
 
 
 #### MPI-INF-3DHP
  
-<p align="center"><img src="experiments/3dhp.gif" width="90%" alt="" /></p>
+<p align="center"><img src="experiments/3dhp.gif" width="100%" alt="" /></p>
 
 #### SkiPose
  
-<p align="center"><img src="experiments/skipose.gif" width="90%" alt="" /></p>
+<p align="center"><img src="experiments/skipose.gif" width="100%" alt="" /></p>
 
 #### Visualizing the Training process
  
-<p align="center"><img src="experiments/training_ski.gif" width="80%" alt="" /></p>
+<p align="center"><img src="experiments/training_ski.gif" width="100%" alt="" /></p>
+
+#### In-the-wild golf swing video from youtube
+
+<p align="center"><img src="experiments/golf.gif" width="100%" alt="" /></p>
 
 # Quick start
 
